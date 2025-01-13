@@ -2,7 +2,7 @@
 
 Indigenous languages are sorely underrepresented online and in digital spaces. UTF-8 is the standard encoding that should be used, as it provides access to all the unicode symbols necessary. Despite that, thorough testing is necessary to make digital environments truly inclusive. We see this work as useful and applicable for digital projects, whether they have an Indigenous focus or not.
 
-Some examples of where these resources may be of use:
+This repository contains resources to support testing and development efforts around language support for BC Indigenous writing systems. Some examples of where these resources may be of use:
 
 - Testing fonts – Is your font equipped to handle Indigenous languages in the correct way?
 - Building and testing keyboards – Does your keyboard employ the Unicode characters that are correct for the language you're working with?
