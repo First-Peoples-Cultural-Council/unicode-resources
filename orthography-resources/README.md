@@ -17,8 +17,8 @@ The file also lists the BCP 47 codes for each language.
 For each published FirstVoices site, we include the following:
 
 1. alphabet_ordering.csv : a list of alphabet characters, in order. Note that each alphabet character may contain multiple graphemes, such as "kw" or "ll".
-2. character_variants.csv : a list of any variants for the alphabet characters, which are treated the same way when alphabetizing. For example, in English a variant of "a" is "A".
+2. character_variants.csv : a list of any variants for the alphabet characters, which are treated the as equivalent when sorting. For example, in English a variant of "a" is "A".
 3. confusable_characters.csv : a list of any confusables for the alphabet characters. 
-4. ignored_characters.csv : a list of any punctuation characters that are ignored during alphabetical sorting
+4. ignored_characters.csv : a list of any punctuation characters that are ignored during sorting.
 
 [Read more about these resources and their context on our Knowledge Base.](https://firstvoices.atlassian.net/wiki/spaces/FIR1/pages/1704341)
