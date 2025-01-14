@@ -1,7 +1,5 @@
 # FirstVoices Unicode and Orthography Resources
 
-Indigenous languages are sorely underrepresented online and in digital spaces. UTF-8 is the standard encoding that should be used, as it provides access to all the unicode symbols necessary. Despite that, thorough testing is necessary to make digital environments truly inclusive. We see this work as useful and applicable for digital projects, whether they have an Indigenous focus or not.
-
 This repository contains resources to support testing and development efforts around language support for BC Indigenous writing systems. Some examples of where these resources may be of use:
 
 - Testing fonts – Is your font equipped to handle Indigenous languages in the correct way?
@@ -10,7 +8,9 @@ This repository contains resources to support testing and development efforts ar
 - Improving search functionality within Indigenous-language software – Are there instances of 'confusables' in your language data that may be reducing functionality?
 - Other – If you have an application for this work that we haven't considered, please let us know!
 
-# Analysis Results
+[Read more about these resources and their context on our Knowledge Base.](https://firstvoices.atlassian.net/wiki/spaces/FIR1/pages/1704341)
+
+## Analysis Results
 
 This directory contains the FirstVoices Confusables and Adjacency Pair Databases, with frequency analysis numbers drawn from FirstVoices language data.
 
