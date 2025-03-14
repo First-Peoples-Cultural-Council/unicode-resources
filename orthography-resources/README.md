@@ -6,9 +6,7 @@ This data is useful when considering alphabetization, data normalization (includ
 
 ### Language Names and Codes
 
-1. bc_language_metadata_2025.csv : lists basic information about BC Indigenous language names, including current names, alternate names, and keywords about communities where the languages are spoken. This is primarily drawn from the [latest language status report produced by the First Peoples' Cultural Council](https://fpcc.ca/resource/resource_type/language-status-report/).
-
-The file also lists the BCP 47 codes for each language.
+1. bc_language_metadata_2025.csv : lists basic information about BC Indigenous language names, including current names, alternate names, keywords about communities where the languages are spoken, and the BCP 47 code for each language. This file is updated periodically. For the most up-to-date language list and context for understanding the data, see the [FPCC List of B.C. First Nations Languages (PDF)](https://fpcc.ca/resource/fpcc-list-of-languages-of-bc/)
 
 ### Orthography Data
 
