@@ -23,3 +23,7 @@ This directory contains information about alphabets for each variety of a BC Ind
 These databases are published under the [APACHE LICENSE, VERSION 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 Our team would like to track the scope of this work, and understand its broader applications as well as potentially share your work for inspiration on how to improve Indigenous language support in digital spaces. Please email hello@firstvoices.com to let us know about where and how this database is being used for your project.
+
+## See Also
+
+The FirstVoices team also maintains a collection of Keyman Keyboard layouts, including layouts for BC Indigenous languages. See the [keyboards project](https://github.com/First-Peoples-Cultural-Council/keyboards)
