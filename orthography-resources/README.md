@@ -1,12 +1,14 @@
 # FirstVoices Orthography Resources
 
-These files represent a snapshot of basic information about BC Indigenous writing systems hosted on the FirstVoices platform. These reports were created in January 2025. Note that many writing systems are actively updated and will change periodically, including the characters and ordering in the alphabets.
+These files represent a snapshot of basic information about BC Indigenous writing systems hosted on the FirstVoices platform. Note that many writing systems are actively updated and will change periodically, including the characters and ordering in the alphabets.
 
 This data is useful when considering alphabetization, data normalization (including for search query input), spell-checking, testing fonts for character support, keyboard design, and many other uses. 
 
 ### Language Names and Codes
 
-1. bc_language_metadata_2025.csv : lists basic information about BC Indigenous language names, including current names, alternate names, keywords about communities where the languages are spoken, and the BCP 47 code for each language. This file is updated periodically. For the most up-to-date language list and context for understanding the data, see the [FPCC List of B.C. First Nations Languages (PDF)](https://fpcc.ca/resource/fpcc-list-of-languages-of-bc/)
+1. bc_language_metadata_2025.csv : lists basic information about BC Indigenous language names, including current names, alternate names, keywords about communities where the languages are spoken, and the BCP 47 code for each language. This file is updated periodically.
+
+For the most up-to-date language list and context for understanding the data, see the [FPCC List of B.C. First Nations Languages (PDF)](https://fpcc.ca/resource/fpcc-list-of-languages-of-bc/)
 
 ### Orthography Data
 
